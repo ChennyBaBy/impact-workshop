@@ -35,3 +35,4 @@ node_modules
 # impact library
 lib/impact/*
 lib/weltmeister/*
+.DS_Store
